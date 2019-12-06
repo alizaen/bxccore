@@ -1,1 +1,1 @@
-# core of Bitcoin Classic
+# Core of Bitcoin Classic
